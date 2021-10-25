@@ -1,0 +1,7 @@
+OK ECOMMERCE PROJECT NOTES
+yarn add node-sass
+    - compiles the sass automatically
+react-router
+    - uses History API provided and enables navigation
+
+s
